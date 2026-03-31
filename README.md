@@ -2,7 +2,10 @@
 
 PasteApp is a simple and fast web application that allows users to create, save, and manage text snippets easily. It is useful for storing notes, code snippets, and temporary text.
 
----
+
+# Live Demo
+
+*[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://paste-app-flax-xi.vercel.app/.vercel.app)
 
 ## ✨ Features
 
