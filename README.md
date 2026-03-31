@@ -5,11 +5,11 @@ PasteApp is a simple and fast web application that allows users to create, save,
 
 # Live Demo
 
-*[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://paste-app-flax-xi.vercel.app/.vercel.app)
+*[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://paste-app-afwh.vercel.app/.vercel.app)
 
 ## ✨ Features
 
-* 📝 Create and save text snippets instantly
+* 📝 Create and save text snippets instantly  
 * 📋 Copy text to clipboard in one click
 * 🗂️ View and manage all saved pastes
 * ⚡ Fast and responsive user interface
