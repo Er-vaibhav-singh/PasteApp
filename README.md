@@ -5,7 +5,7 @@ PasteApp is a simple and fast web application that allows users to create, save,
 
 # Live Demo
 
-*[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://paste-app-afwh.vercel.app/.vercel.app)
+*[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://paste-app-afwh.vercel.app/)
 
 ## ✨ Features
 
